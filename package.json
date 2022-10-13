@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@ptomasroos/react-native-multi-slider": "^2.2.2",
+    "@react-native-community/slider": "^4.3.2",
     "@shopify/react-native-skia": "^0.1.153",
     "dayjs": "^1.11.5",
     "gl-react-native": "^5.2.1",
